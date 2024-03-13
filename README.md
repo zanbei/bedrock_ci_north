@@ -1,8 +1,7 @@
-# Getting Started with Bedrock
+# Bedrock 北区CI 团队 workshop
 
- With the Amazon Bedrock serverless experience, you can quickly get started, easily experiment with FMs, privately customize FMs with your own data, and seamlessly integrate and deploy them into your applications using AWS tools and capabilities.
+主要练习bedrock sdk, knowledge base, langchain集成，agent封装。
 
-This repository contains examples to get you started with the core Amazon Bedrock APIs for each of the foundational model providers.
-
+感谢各位老师到来 :)
 
 ![Bedrock Models](images/bedrock_models.png)
