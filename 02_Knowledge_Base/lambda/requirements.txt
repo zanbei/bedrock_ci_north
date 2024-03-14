@@ -1,0 +1,4 @@
+requests
+bs4
+google-search-results
+langchain_community
