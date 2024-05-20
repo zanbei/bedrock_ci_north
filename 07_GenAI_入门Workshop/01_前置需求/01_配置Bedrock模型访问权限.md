@@ -28,5 +28,6 @@
 - 选择 Claude 3 Sonent
 - 点击 Apply
 - 之后您可以在对话框输入任何文字来和 Claude3 交流
+
   ![image](../../images/07_workshop_images/01_playground_chat_01.png)
   ![image](../../images/07_workshop_images/01_playground_chat_02.png)
