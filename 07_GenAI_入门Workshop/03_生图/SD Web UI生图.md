@@ -10,7 +10,14 @@ Stable Diffusion 是一种基于扩散模型的生成式 AI 模型，它能够�
 
 2. 如何登录到 webui 界面：请参考[03\_订阅和部署 ECR 文生图解决方案](../01_前置需求/03_订阅和部署ECR文生图解决方案.md)的第 9-12 步。
 
-## 一、文生图
+## 任务说明
+
+1. 浏览/在 Bedrock 尝试给定的[示例](#示例)
+2. 生成指定内容？您可以自行选择不同模型（Titan/Stable Diffusion）来完成此任务，请将最好的结果拍照上传到 APP（照片需包含提示词和模型回答）。
+
+## 示例
+
+### 一、文生图
 
 ```
 mountain, green grassland, sky, cloud, bird, blue sky, no human, day, wide shot, flying, border, outdoors, white bird, scenery
@@ -29,7 +36,7 @@ Steps: 40, Sampler: DPM++ 2M Karras, CFG scale: 6, Seed: 3943213078, Size: 872x8
 
    ![image](../../images/07_workshop_images/sd_webui_02.png)
 
-## 二、图生图
+### 二、图生图
 
 ![image](../../images/07_workshop_images/sd_webui_04.png)
 
