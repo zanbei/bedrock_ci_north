@@ -10,7 +10,7 @@
 
 ## 任务说明
 
-1. 为本次 Summit 生成一个 Logo，自定义提示词，风格不限，您可以自行选择不同模型（Titan/Stable Diffusion），使用文生图/图生图功能来完成此任务，请将您认为最好的一张图片上传到微信小程序。
+1. 为本次 Summit 生成一个 Logo，自定义提示词，风格不限，您可以选择不同模型（Titan/Stable Diffusion），使用文生图/图生图功能来完成此任务，请将最好的结果截图，粘贴在 [quip 共享文档](https://quip-amazon.com/MxpqAMSyqRv6)的对应小组序号下。
 
 ## 示例
 
